@@ -11,7 +11,8 @@
 }
 .container label,
 .container input,
-.container button {
+.container button,
+.container h2 {
   text-align: center;
   display: block;
   margin: 0 auto;
