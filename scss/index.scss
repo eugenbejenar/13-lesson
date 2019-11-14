@@ -1,0 +1,18 @@
+* {
+    margin: 3%;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid black;
+    label,
+    input,
+    button {
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+}

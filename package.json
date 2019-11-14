@@ -1,0 +1,26 @@
+{
+    "name": "13-lesson",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass:build": "sass ./scss/index.scss ./css/index.css",
+        "sass:watch": "sass ./scss/index.scss ./css/index.css --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eugenbejenar/13-lesson.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/eugenbejenar/13-lesson/issues"
+    },
+    "homepage": "https://github.com/eugenbejenar/13-lesson#readme",
+    "devDependencies": {
+        "node-sass": "^4.13.0",
+        "sass": "^1.23.3"
+    }
+}
