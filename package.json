@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/eugenbejenar/13-lesson#readme",
     "devDependencies": {
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "sass": "^1.23.3"
     }
 }
